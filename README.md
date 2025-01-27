@@ -1,11 +1,10 @@
-![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7465727261666f726d2f7465727261666f726d2d6f726967696e616c2e737667](https://github.com/user-attachments/assets/e01ecea1-c69e-4fd1-94e3-bf76c78c353f)# Hi there 👋
+# Hi there 👋
 
 ## About Me
 I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. My expertise includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management With hands-on experience and deep technical knowledge. I excel in Python scripting, data processing pipelines, and static website deployment. I am passionate about building secure, high-performance systems that drive innovation and deliver impactful results.
 
 ##skills
-![Uploading 68747470733a2f2f636<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g fill-rule="evenodd"><path d="M77.941 44.5v36.836L46.324 62.918V26.082zm0 0" fill="#5c4ee5"/><path d="M81.41 81.336l31.633-18.418V26.082L81.41 44.5zm0 0" fill="#4040b2"/><path d="M11.242 42.36L42.86 60.776V23.941L11.242 5.523zm0 0M77.941 85.375L46.324 66.957v36.82l31.617 18.418zm0 0" fill="#5c4ee5"/></g></svg>
-46e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7465727261666f726d2f7465727261666f726d2d6f726967696e616c2e737667.svg…]()
+![file-type-terraform-icon-227x256-91ifyour](https://github.com/user-attachments/assets/fefedbcc-4d01-45b4-bb30-59fcba023ad0 =250x250)
 
 
 <!--
