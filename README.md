@@ -3,7 +3,7 @@
 ## About Me
 I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. My expertise includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management With hands-on experience and deep technical knowledge. I excel in Python scripting, data processing pipelines, and static website deployment. I am passionate about building secure, high-performance systems that drive innovation and deliver impactful results.
 
-##skills
+## skills
 <img src="https://github.com/user-attachments/assets/fefedbcc-4d01-45b4-bb30-59fcba023ad0" alt="Sample Image" width="32" height="37">
 
 <!--
