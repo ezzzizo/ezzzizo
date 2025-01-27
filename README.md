@@ -1,9 +1,10 @@
-![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7465727261666f726d2f7465727261666f726d2d6f726967696e616c2e737667](https://github.com/user-attachments/assets/57be9152-8618-4f66-a4ca-d1bb760585e6)# Hi there 👋
+# Hi there 👋
 
 ## About Me
 I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. My expertise includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management With hands-on experience and deep technical knowledge. I excel in Python scripting, data processing pipelines, and static website deployment. I am passionate about building secure, high-performance systems that drive innovation and deliver impactful results.
 
 ##skills
+![file-type-terraform-icon-70x65-91ifyour](https://github.com/user-attachments/assets/dbf4d840-50c3-4e65-9c25-c4113135c263)
 
 
 
