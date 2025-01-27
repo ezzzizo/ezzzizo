@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## About Me
+I am a Junior Cloud Engineer with a strong foundation in Electronics and Communication Engineering, specializing in cloud computing, networking, and IT infrastructure automation. My expertise includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management. With hands-on experience in Python scripting, data processing pipelines, and static website deployment, I am passionate about building secure, high-performance systems that drive innovation.
 <!--
 **ezzzizo/ezzzizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
