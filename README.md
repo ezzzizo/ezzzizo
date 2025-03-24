@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. My expertise includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management With hands-on experience and deep technical knowledge. I excel in Python scripting, data processing pipelines, and static website deployment. I am passionate about building secure, high-performance systems that drive innovation and deliver impactful results.
+I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. I am AWS Certified (Cloud Practitioner) and continuously expanding my expertise, currently enhancing my skills in AWS Lambda development and working on various serverless function projects. My experience includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management. Additionally, I excel in Python scripting, data processing pipelines, and static website deployment. I am dedicated to building secure, high-performance systems that drive innovation and deliver impactful results.
 
 ## skills
 <img src="https://github.com/user-attachments/assets/e7f9e8ed-7cb8-40eb-8635-a923ab29ffb1" alt="terraform" width="40" height="47">
@@ -13,6 +13,9 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 <img src="https://github.com/user-attachments/assets/29a476d4-5207-4164-a3c7-da35fa3c71bd" alt="Shell Scripting" width="39" height="45">
 &nbsp;
 <img src="https://github.com/user-attachments/assets/9ad8900d-f650-43c8-97ca-393994da8f3b" alt="Linux" width="39" height="42">
+
+## Certifications
+<img src="https://github.com/user-attachments/assets/c861a65e-a5a6-42cf-8bbc-63e82e3e905b" alt="aws cloud practitioner" width="70" height="70">
 
 
 <!--
