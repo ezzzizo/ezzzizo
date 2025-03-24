@@ -8,7 +8,7 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 &nbsp;
 <img src="https://github.com/user-attachments/assets/fefedbcc-4d01-45b4-bb30-59fcba023ad0" alt="aws" width="32" height="37">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/c0fb3337-2075-4821-a299-ada0ff5e7087" alt="python" width="32" height="37">
+<img src="https://github.com/user-attachments/assets/c0fb3337-2075-4821-a299-ada0ff5e7087" alt="python" width="42" height="45">
 &nbsp;
 <img src="" alt="Sample Image" width="32" height="37">
 &nbsp;
