@@ -12,7 +12,7 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 &nbsp;
 <img src="https://github.com/user-attachments/assets/b642ee57-b4cb-4991-9b6d-28a9ed1fddb5" alt="shell scripting" width="42" height="45">
 &nbsp;
-<img src="" alt="Sample Image" width="32" height="37">
+<img src="https://github.com/user-attachments/assets/29a476d4-5207-4164-a3c7-da35fa3c71bd" alt="Shell Scripting" width="42" height="45">
 
 
 
