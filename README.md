@@ -5,13 +5,13 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 
 ## skills
 <img src="https://github.com/user-attachments/assets/e7f9e8ed-7cb8-40eb-8635-a923ab29ffb1" alt="terraform" width="40" height="47">
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/fefedbcc-4d01-45b4-bb30-59fcba023ad0" alt="aws" width="32" height="37">
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/c0fb3337-2075-4821-a299-ada0ff5e7087" alt="python" width="42" height="45">
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/29a476d4-5207-4164-a3c7-da35fa3c71bd" alt="Shell Scripting" width="39" height="45">
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/9ad8900d-f650-43c8-97ca-393994da8f3b" alt="Linux" width="39" height="42">
 
 ## Certifications
