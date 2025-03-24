@@ -15,7 +15,7 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 <img src="https://github.com/user-attachments/assets/9ad8900d-f650-43c8-97ca-393994da8f3b" alt="Linux" width="39" height="42">
 
 ## Certifications
-<img src="https://github.com/user-attachments/assets/c861a65e-a5a6-42cf-8bbc-63e82e3e905b" alt="aws cloud practitioner" width="70" height="70">
+<img src="https://github.com/user-attachments/assets/c861a65e-a5a6-42cf-8bbc-63e82e3e905b" alt="aws cloud practitioner" width="120" height="120">
 
 
 <!--
