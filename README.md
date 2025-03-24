@@ -5,7 +5,8 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 
 ## skills
 <img src="https://github.com/user-attachments/assets/fefedbcc-4d01-45b4-bb30-59fcba023ad0" alt="Sample Image" width="32" height="37">
-![amazon-web-services](https://github.com/user-attachments/assets/e7f9e8ed-7cb8-40eb-8635-a923ab29ffb1)
+<img src="https://github.com/user-attachments/assets/e7f9e8ed-7cb8-40eb-8635-a923ab29ffb1" alt="Sample Image" width="32" height="37">
+
 
 <!--
 **ezzzizo/ezzzizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
