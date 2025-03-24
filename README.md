@@ -11,7 +11,9 @@ I am a passionate Cloud Engineer with a strong foundation in AWS services, speci
 <img src="https://github.com/user-attachments/assets/c0fb3337-2075-4821-a299-ada0ff5e7087" alt="python" width="42" height="45">
 &nbsp;
 <img src="https://github.com/user-attachments/assets/29a476d4-5207-4164-a3c7-da35fa3c71bd" alt="Shell Scripting" width="39" height="45">
-
+&nbsp;
+<img src="https://github.com/user-attachments/assets/9ad8900d-f650-43c8-97ca-393994da8f3b" alt="Linux" width="39" height="45">
+![free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967](https://github.com/user-attachments/assets/9ad8900d-f650-43c8-97ca-393994da8f3b)
 
 
 <!--
