@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. I am AWS Certified (Cloud Practitioner) and continuously expanding my expertise, currently enhancing my skills in AWS Lambda development and working on various serverless function projects. My experience includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management. Additionally, I excel in Python scripting, data processing pipelines, and static website deployment. I am dedicated to building secure, high-performance systems that drive innovation and deliver impactful results.
+I am a passionate Cloud Engineer with a strong foundation in AWS services, specializing in cloud computing, networking, and IT infrastructure automation. I am AWS Certified – Solutions Architect, and I’m continuously expanding my expertise through hands-on projects and advanced learning., currently enhancing my skills in AWS Lambda development and working on various serverless function projects. My experience includes designing and deploying scalable solutions on AWS, managing Linux systems, and leveraging DevOps tools like Terraform and Git for efficient infrastructure management. Additionally, I excel in Python scripting, data processing pipelines, and static website deployment. I am dedicated to building secure, high-performance systems that drive innovation and deliver impactful results.
 
 ## skills
 <img src="https://github.com/user-attachments/assets/e7f9e8ed-7cb8-40eb-8635-a923ab29ffb1" alt="terraform" width="40" height="47">
